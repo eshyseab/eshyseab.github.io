@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eshyseab.github.io/sitemap.eshyseab.gz
+Sitemap: https://eshyseab.github.io/app/sitemap.eshyseab.gz
+Sitemap: https://eshyseab.github.io/assets/sitemap.eshyseab.gz
+Sitemap: https://eshyseab.github.io/css/sitemap.eshyseab.gz
+Sitemap: https://eshyseab.github.io/data/sitemap.eshyseab.gz
+Sitemap: https://eshyseab.github.io/includes/sitemap.eshyseab.gz
+Sitemap: https://eshyseab.github.io/item/sitemap.eshyseab.gz
+Sitemap: https://eshyseab.github.io/src/sitemap.eshyseab.gz
